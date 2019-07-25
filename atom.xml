@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mufengnet.cn</id>
     <title>暮渢流量卡</title>
-    <updated>2019-07-25T10:59:41.474Z</updated>
+    <updated>2019-07-25T11:16:10.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.mufengnet.cn"/>
     <link rel="self" href="https://www.mufengnet.cn/atom.xml"/>
@@ -17,7 +17,7 @@
         </link>
         <updated>2019-07-25T10:58:46.000Z</updated>
         <content type="html"><![CDATA[<p><strong>专业</strong>的**物联网卡(流量卡)<strong>销售商！</strong><br>
-<strong>QQ</strong>：1229002635<br>
+<strong>QQ</strong>：<a href="https://wpa.qq.com/msgrd?v=3&amp;uin=1229002635&amp;site=qq&amp;menu=yes">1229002635</a><br>
 <strong>微信</strong>：mufengnet</p>
 ]]></content>
     </entry>
@@ -35,6 +35,21 @@
 <img src="https://www.mufengnet.cn/post-images/1564045451362.jpg" alt=""><br>
 电信：<img src="https://www.mufengnet.cn/post-images/1564045949863.jpg" alt=""><br>
 <img src="https://www.mufengnet.cn/post-images/1564050577400.jpg" alt=""></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[常见问题（售前）]]></title>
+        <id>https://www.mufengnet.cn/post/chang-jian-wen-ti-shou-qian</id>
+        <link href="https://www.mufengnet.cn/post/chang-jian-wen-ti-shou-qian">
+        </link>
+        <updated>2019-07-25T10:56:53.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>问：</strong> 你们的卡需要实名吗 ？<br>
+<strong>答：</strong> 我们所有的卡都无需实名！<br>
+<strong>问：</strong> 卡都是4G的吗 ？<br>
+<strong>答：</strong> 我们所有的卡都是全程4G的！<br>
+<strong>问：</strong> 套餐在哪里充值？<br>
+<strong>答：</strong> 微信关注：小象通信 输入ICCID查询并充值即可<br>
+<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1229002635&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1229002635:52" alt="暮渢互联QQ" title="暮渢互联QQ"/></a></p>
 ]]></content>
     </entry>
     <entry>
