@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mufengnet.cn</id>
     <title>暮渢流量卡</title>
-    <updated>2019-07-25T10:54:39.712Z</updated>
+    <updated>2019-07-25T10:59:41.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.mufengnet.cn"/>
     <link rel="self" href="https://www.mufengnet.cn/atom.xml"/>
@@ -11,11 +11,38 @@
     <icon>https://www.mufengnet.cn/favicon.ico</icon>
     <rights>All rights reserved 2019, 暮渢流量卡</rights>
     <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://www.mufengnet.cn/post/about</id>
+        <link href="https://www.mufengnet.cn/post/about">
+        </link>
+        <updated>2019-07-25T10:58:46.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>专业</strong>的**物联网卡(流量卡)<strong>销售商！</strong><br>
+<strong>QQ</strong>：1229002635<br>
+<strong>微信</strong>：mufengnet</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卡种介绍]]></title>
+        <id>https://www.mufengnet.cn/post/ka-chong-jie-shao</id>
+        <link href="https://www.mufengnet.cn/post/ka-chong-jie-shao">
+        </link>
+        <updated>2019-07-25T10:57:11.000Z</updated>
+        <content type="html"><![CDATA[<p>移动电信联通三网齐全：<br>
+移动：<img src="https://www.mufengnet.cn/post-images/1564045437549.jpg" alt=""><br>
+<img src="https://www.mufengnet.cn/post-images/1564045442915.jpg" alt=""><br>
+<img src="https://www.mufengnet.cn/post-images/1564045446013.jpg" alt=""><br>
+<img src="https://www.mufengnet.cn/post-images/1564045448699.jpg" alt=""><br>
+<img src="https://www.mufengnet.cn/post-images/1564045451362.jpg" alt=""><br>
+电信：<img src="https://www.mufengnet.cn/post-images/1564045949863.jpg" alt=""><br>
+<img src="https://www.mufengnet.cn/post-images/1564050577400.jpg" alt=""></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[网速慢]]></title>
         <id>https://www.mufengnet.cn/post/wang-su-man</id>
         <link href="https://www.mufengnet.cn/post/wang-su-man">
         </link>
-        <updated>2019-07-25T10:35:39.000Z</updated>
+        <updated>2019-07-24T13:35:39.000Z</updated>
         <content type="html"><![CDATA[<p><em><strong>方法一</strong></em><br>
 请在 小象通信 公众号反馈，格式：ICCID+网速慢<br>
 <em><strong>方法二</strong></em><br>
@@ -28,7 +55,7 @@
         <id>https://www.mufengnet.cn/post/cha-ru-qia-hou-wu-xin-hao</id>
         <link href="https://www.mufengnet.cn/post/cha-ru-qia-hou-wu-xin-hao">
         </link>
-        <updated>2019-07-25T10:30:33.000Z</updated>
+        <updated>2019-07-23T14:30:33.000Z</updated>
         <content type="html"><![CDATA[<p>移动设置APN：<br>
 <em><strong>安卓手机</strong></em><br>
 需要把设备的接入点改成CMIOT 具体步骤如下：<br>
@@ -42,33 +69,6 @@ A、找到设置移动网络，接入点名称选添加或者新建。（不要�
 <img src="https://www.mufengnet.cn/post-images/1564050770524.jpg" alt=""><br>
 <em><strong>苹果手机</strong></em><br>
 <img src="https://www.mufengnet.cn/post-images/1564050928290.jpg" alt=""></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡种介绍]]></title>
-        <id>https://www.mufengnet.cn/post/ka-chong-jie-shao</id>
-        <link href="https://www.mufengnet.cn/post/ka-chong-jie-shao">
-        </link>
-        <updated>2019-07-25T09:01:41.000Z</updated>
-        <content type="html"><![CDATA[<p>移动电信联通三网齐全：<br>
-移动：<img src="https://www.mufengnet.cn/post-images/1564045437549.jpg" alt=""><br>
-<img src="https://www.mufengnet.cn/post-images/1564045442915.jpg" alt=""><br>
-<img src="https://www.mufengnet.cn/post-images/1564045446013.jpg" alt=""><br>
-<img src="https://www.mufengnet.cn/post-images/1564045448699.jpg" alt=""><br>
-<img src="https://www.mufengnet.cn/post-images/1564045451362.jpg" alt=""><br>
-电信：<img src="https://www.mufengnet.cn/post-images/1564045949863.jpg" alt=""><br>
-<img src="https://www.mufengnet.cn/post-images/1564050577400.jpg" alt=""></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://www.mufengnet.cn/post/about</id>
-        <link href="https://www.mufengnet.cn/post/about">
-        </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>专业</strong>的**物联网卡(流量卡)**销售商！<br>
-<strong>QQ</strong>：1229002635<br>
-<strong>微信</strong>：mufengnet</p>
 ]]></content>
     </entry>
 </feed>
