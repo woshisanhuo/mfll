@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mufengnet.cn</id>
     <title>暮渢流量卡</title>
-    <updated>2019-07-25T09:12:55.471Z</updated>
+    <updated>2019-07-25T10:38:51.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.mufengnet.cn"/>
     <link rel="self" href="https://www.mufengnet.cn/atom.xml"/>
@@ -10,6 +10,40 @@
     <logo>https://www.mufengnet.cn/images/avatar.png</logo>
     <icon>https://www.mufengnet.cn/favicon.ico</icon>
     <rights>All rights reserved 2019, 暮渢流量卡</rights>
+    <entry>
+        <title type="html"><![CDATA[网速慢]]></title>
+        <id>https://www.mufengnet.cn/post/wang-su-man</id>
+        <link href="https://www.mufengnet.cn/post/wang-su-man">
+        </link>
+        <updated>2019-07-25T10:35:39.000Z</updated>
+        <content type="html"><![CDATA[<p><em><strong>方法一</strong></em><br>
+请在 小象通信 公众号反馈，格式：ICCID+网速慢<br>
+<em><strong>方法二</strong></em><br>
+向客服反馈<br>
+<img src="https://www.mufengnet.cn/post-images/1564051019280.jpg" alt=""></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[插入卡后无信号]]></title>
+        <id>https://www.mufengnet.cn/post/cha-ru-qia-hou-wu-xin-hao</id>
+        <link href="https://www.mufengnet.cn/post/cha-ru-qia-hou-wu-xin-hao">
+        </link>
+        <updated>2019-07-25T10:30:33.000Z</updated>
+        <content type="html"><![CDATA[<p>移动设置APN：<br>
+<em><strong>安卓手机</strong></em><br>
+需要把设备的接入点改成CMIOT 具体步骤如下：<br>
+A、找到设置移动网络，接入点名称选添加或者新建。（不要修改原有的接入点） B、APN设置为CMIOT， 名称也设置为CMIOT 保存并重启即可。<br>
+<em><strong>苹果手机</strong></em><br>
+需要修改APN设置<br>
+1、找到设置找到蜂窝移动网络--打开移动网络和点击数据选项--选择语音与数据--选择设置LTE<br>
+2.设置完成后点击保存，重启即可。<br>
+图解：<br>
+<em><strong>安卓手机</strong></em><br>
+<img src="https://www.mufengnet.cn/post-images/1564050770524.jpg" alt=""><br>
+<em><strong>苹果手机</strong></em><br>
+<img src="https://www.mufengnet.cn/post-images/1564050928290.jpg" alt=""></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卡种介绍]]></title>
         <id>https://www.mufengnet.cn/post/ka-chong-jie-shao</id>
@@ -22,7 +56,8 @@
 <img src="https://www.mufengnet.cn/post-images/1564045446013.jpg" alt=""><br>
 <img src="https://www.mufengnet.cn/post-images/1564045448699.jpg" alt=""><br>
 <img src="https://www.mufengnet.cn/post-images/1564045451362.jpg" alt=""><br>
-电信：<img src="https://www.mufengnet.cn/post-images/1564045949863.jpg" alt=""></p>
+电信：<img src="https://www.mufengnet.cn/post-images/1564045949863.jpg" alt=""><br>
+<img src="https://www.mufengnet.cn/post-images/1564050577400.jpg" alt=""></p>
 ]]></content>
     </entry>
     <entry>
